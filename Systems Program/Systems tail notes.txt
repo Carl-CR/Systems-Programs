@@ -1,0 +1,5 @@
+For tail /var/log/syslog
+
+-type su to enter 
+-run command
+-exit then enter to switch backsu

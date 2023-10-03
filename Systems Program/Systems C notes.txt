@@ -1,0 +1,10 @@
+gccTo run systems programming
+Make .c file 
+run gcc (file name).c -o (name it).o
+./(file name).o
+
+When getting process ID 
+parent is always created first with child being the second
+
+If fork is returning a 0 that is a child process, 
+anything else return by fork that is greater than 0 is a parent process./
